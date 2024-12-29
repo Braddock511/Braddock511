@@ -6,6 +6,10 @@ Welcome to my GitHub profile! I'm a passionate backend developer who loves craft
 
 ---
 
+### 🌟 Current Project
+I'm currently working on a production project **Vinylite** ([vinylite.pl](https://vinylite.pl)), a e-commerce platform dedicated to music records etc.
+---
+
 ### 🛠️ Tech Stack
 <div>
   <!-- Core Technologies -->
